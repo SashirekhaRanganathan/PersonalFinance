@@ -2,6 +2,8 @@
 ![Android](https://img.shields.io/badge/Platform-Android-black?style=for-the-badge&logo=android)
 ![Java](https://img.shields.io/badge/Language-Java-darkred?style=for-the-badge&logo=java)
 ![SQLite](https://img.shields.io/badge/Database-SQLite-blue?style=for-the-badge&logo=sqlite)
+
+
 A comprehensive personal finance companion app built for Android that helps users track expenses, manage savings goals, and gain valuable spending insights.
 
 ## 📱 Assignment Context
