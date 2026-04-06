@@ -271,107 +271,57 @@ Completed Features
 
 ### 🏠 Dashboard Journey
 
-**1. Empty Dashboard (First Launch)**
-![Empty Dashboard](WhatsApp%20Image%202026-04-06%20at%207.15.54%20PM.jpeg)
-*App when first opened - no data added yet*
+| | Screenshot | Description |
+|---|------------|-------------|
+| 1 | ![Empty](1_empty.jpg) | Empty dashboard - no data |
+| 2 | ![Income](2_income.jpg) | After adding ₹50,000 salary |
+| 4 | ![Expense](4_expense_added.jpg) | After adding ₹500 expense |
+| 16 | ![Full](16_dashboard_full.jpg) | Complete dashboard with chart |
 
 ---
 
-**2. Dashboard with Income**
-![Dashboard with Income](WhatsApp%20Image%202026-04-06%20at%207.15.55%20PM%20(1).jpeg)
-*After adding salary income of ₹50,000*
+### 📋 Transactions
+
+| | Screenshot | Description |
+|---|------------|-------------|
+| 9 | ![List](9_transactions_list.jpg) | All transactions list |
+| 11 | ![Summary](11_transactions_summary.jpg) | With balance summary |
+| 6 | ![Full](6_transactions_full.jpg) | Complete history |
+| 10 | ![Filter](10_filter.jpg) | Filter dialog |
+| 7 | ![Delete](7_delete.jpg) | Delete confirmation |
 
 ---
 
-**3. Dashboard with Expense Added**
-![Dashboard with Expense](WhatsApp%20Image%202026-04-06%20at%207.15.59%20PM.jpeg)
-*After adding food expense of ₹500*
+### ✏️ Add & Edit
+
+| | Screenshot | Description |
+|---|------------|-------------|
+| 3 | ![Add](3_add_transaction.jpg) | Add transaction form |
+| 8 | ![Edit](8_edit.jpg) | Edit transaction |
 
 ---
 
-**4. Complete Dashboard**
-![Complete Dashboard](WhatsApp%20Image%202026-04-06%20at%207.19.06%20PM.jpeg)
-*Full dashboard showing balance, chart, and transactions*
+### 🎯 Goals
+
+| | Screenshot | Description |
+|---|------------|-------------|
+| 12 | ![Empty Goals](12_goals_empty.jpg) | No goals yet |
+| 14 | ![Goal Form](14_goal_form.jpg) | Create new goal |
+| 13 | ![Add Goal](13_add_goal.jpg) | Goal with data |
+| 15 | ![Progress](15_goals_progress.jpg) | Goals with progress & streaks 🔥 |
 
 ---
 
-### 📋 Transaction Management
+### 📊 Insights
 
-**5. Transactions List**
-![Transactions List](WhatsApp%20Image%202026-04-06%20at%207.16.01%20PM%20(1).jpeg)
-*All transactions with income in green and expenses in red*
-
----
-
-**6. Transactions with Chart Summary**
-![Transactions Summary](WhatsApp%20Image%202026-04-06%20at%207.16.02%20PM.jpeg)
-*Transaction list with total balance summary*
+| | Screenshot | Description |
+|---|------------|-------------|
+| 5 | ![Insights](5_insights.jpg) | Spending analysis & trends |
 
 ---
 
-**7. Filter Dialog**
-![Filter Dialog](WhatsApp%20Image%202026-04-06%20at%207.16.01%20PM%20(2).jpeg)
-*Filter transactions by type and category*
+## 🎬 App Flow
 
----
-
-**8. Multiple Transactions**
-![Multiple Transactions](WhatsApp%20Image%202026-04-06%20at%207.16.00%20PM.jpeg)
-*Complete transaction history*
-
----
-
-**9. Delete Confirmation**
-![Delete Dialog](WhatsApp%20Image%202026-04-06%20at%207.16.00%20PM%20(1).jpeg)
-*Confirm before deleting transaction*
-
----
-
-### ✏️ Add & Edit Transactions
-
-**10. Add Transaction Form**
-![Add Transaction](WhatsApp%20Image%202026-04-06%20at%207.15.58%20PM%20(1).jpeg)
-*Form to add new income or expense*
-
----
-
-**11. Edit Transaction Form**
-![Edit Transaction](WhatsApp%20Image%202026-04-06%20at%207.16.01%20PM.jpeg)
-*Edit existing transaction details*
-
----
-
-### 🎯 Savings Goals
-
-**12. Empty Goals Screen**
-![Empty Goals](WhatsApp%20Image%202026-04-06%20at%207.16.02%20PM%20(1).jpeg)
-*No savings goals created yet*
-
----
-
-**13. Add Goal Form**
-![Add Goal](WhatsApp%20Image%202026-04-06%20at%207.16.03%20PM.jpeg)
-*Create a new savings goal*
-
----
-
-**14. Add Goal with Data**
-![Add Goal Filled](WhatsApp%20Image%202026-04-06%20at%207.16.02%20PM%20(2).jpeg)
-*Goal form filled with example data*
-
----
-
-**15. Goals with Progress**
-![Goals Progress](WhatsApp%20Image%202026-04-06%20at%207.16.03%20PM%20(1).jpeg)
-*Active savings goals showing progress bars and streaks*
-
----
-
-### 📊 Insights & Analytics
-
-**16. Insights Screen**
-![Insights](WhatsApp%20Image%202026-04-06%20at%207.15.59%20PM%20(1).jpeg)
-*Spending analysis, category breakdown, and trends*
 
 📝 Assignment Notes
 This app was developed to demonstrate:
