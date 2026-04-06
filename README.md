@@ -273,10 +273,10 @@ Completed Features
 
 | | Screenshot | Description |
 |---|------------|-------------|
-| 1 | ![Empty](1_empty.jpg) | Empty dashboard - no data |
-| 2 | ![Income](2_income.jpg) | After adding ₹50,000 salary |
-| 4 | ![Expense](4_expense_added.jpg) | After adding ₹500 expense |
-| 16 | ![Full](16_dashboard_full.jpg) | Complete dashboard with chart |
+| 1 | ![Empty](1_empty.jpeg) | Empty dashboard - no data |
+| 2 | ![Income](2_income.jpeg) | After adding ₹50,000 salary |
+| 4 | ![Expense](4_expense_added.jpeg) | After adding ₹500 expense |
+| 16 | ![Full](16_dashboard_full.jpeg) | Complete dashboard with chart |
 
 ---
 
@@ -284,11 +284,11 @@ Completed Features
 
 | | Screenshot | Description |
 |---|------------|-------------|
-| 9 | ![List](9_transactions_list.jpg) | All transactions list |
-| 11 | ![Summary](11_transactions_summary.jpg) | With balance summary |
-| 6 | ![Full](6_transactions_full.jpg) | Complete history |
-| 10 | ![Filter](10_filter.jpg) | Filter dialog |
-| 7 | ![Delete](7_delete.jpg) | Delete confirmation |
+| 9 | ![List](9_transactions_list.jpeg) | All transactions list |
+| 11 | ![Summary](11_transactions_summary.jpeg) | With balance summary |
+| 6 | ![Full](6_transactions_full.jpeg) | Complete history |
+| 10 | ![Filter](10_filter.jpeg) | Filter dialog |
+| 7 | ![Delete](7_delete.jpeg) | Delete confirmation |
 
 ---
 
@@ -296,8 +296,8 @@ Completed Features
 
 | | Screenshot | Description |
 |---|------------|-------------|
-| 3 | ![Add](3_add_transaction.jpg) | Add transaction form |
-| 8 | ![Edit](8_edit.jpg) | Edit transaction |
+| 3 | ![Add](3_add_transaction.jpeg) | Add transaction form |
+| 8 | ![Edit](8_edit.jpeg) | Edit transaction |
 
 ---
 
@@ -305,10 +305,10 @@ Completed Features
 
 | | Screenshot | Description |
 |---|------------|-------------|
-| 12 | ![Empty Goals](12_goals_empty.jpg) | No goals yet |
-| 14 | ![Goal Form](14_goal_form.jpg) | Create new goal |
-| 13 | ![Add Goal](13_add_goal.jpg) | Goal with data |
-| 15 | ![Progress](15_goals_progress.jpg) | Goals with progress & streaks 🔥 |
+| 12 | ![Empty Goals](12_goals_empty.jpeg) | No goals yet |
+| 14 | ![Goal Form](14_goal_form.jpeg) | Create new goal |
+| 13 | ![Add Goal](13_add_goal.jpeg) | Goal with data |
+| 15 | ![Progress](15_goals_progress.jpeg) | Goals with progress & streaks 🔥 |
 
 ---
 
@@ -316,10 +316,7 @@ Completed Features
 
 | | Screenshot | Description |
 |---|------------|-------------|
-| 5 | ![Insights](5_insights.jpg) | Spending analysis & trends |
-
----
-
+| 5 | ![Insights](5_insights.jpeg) | Spending analysis & trends |
 ## 🎬 App Flow
 
 
