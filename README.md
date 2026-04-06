@@ -243,10 +243,7 @@ Analyze monthly trends
 
 See category breakdown
 
-### 🎨 Screenshots
-
-
-###✨ Features Summary
+### ✨ Features Summary
 Completed Features
 ✅ Home Dashboard with charts
 
