@@ -271,6 +271,57 @@ Completed Features
 
 ### 🏠 Dashboard Journey
 
+| # | Screenshot | Description |
+|---|------------|-------------|
+| 1 | <img src="1_empty.jpeg" width="200"> | Empty dashboard - no data |
+| 2 | <img src="2_income.jpeg" width="200"> | After adding ₹50,000 salary |
+| 4 | <img src="4_expense_added.jpeg" width="200"> | After adding ₹500 expense |
+| 16 | <img src="16_dashboard_full.jpeg" width="200"> | Complete dashboard with chart |
+
+---
+
+### 📋 Transactions
+
+| # | Screenshot | Description |
+|---|------------|-------------|
+| 9 | <img src="9_transactions_list.jpeg" width="200"> | All transactions list |
+| 11 | <img src="11_transactions_summary.jpeg" width="200"> | With balance summary |
+| 6 | <img src="6_transactions_full.jpeg" width="200"> | Complete history |
+| 10 | <img src="10_filter.jpeg" width="200"> | Filter dialog |
+| 7 | <img src="7_delete.jpeg" width="200"> | Delete confirmation |
+
+---
+
+### ✏️ Add & Edit
+
+| # | Screenshot | Description |
+|---|------------|-------------|
+| 3 | <img src="3_add_transaction.jpeg" width="200"> | Add transaction form |
+| 8 | <img src="8_edit.jpeg" width="200"> | Edit transaction |
+
+---
+
+### 🎯 Goals
+
+| # | Screenshot | Description |
+|---|------------|-------------|
+| 12 | <img src="12_goals_empty.jpeg" width="200"> | No goals yet |
+| 14 | <img src="14_goal_form.jpeg" width="200"> | Create new goal |
+| 13 | <img src="13_add_goal.jpeg" width="200"> | Goal with data |
+| 15 | <img src="15_goals_progress.jpeg" width="200"> | Goals with progress & streaks 🔥 |
+
+---
+
+### 📊 Insights
+
+| # | Screenshot | Description |
+|---|------------|-------------|
+| 5 | <img src="5_insights.jpeg" width="200"> | Spending analysis & trends |
+
+## 📸 Screenshots
+
+### 🏠 Dashboard Journey
+
 | | Screenshot | Description |
 |---|------------|-------------|
 | 1 | ![Empty](1_empty.jpeg) | Empty dashboard - no data |
