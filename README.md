@@ -93,15 +93,19 @@ Comprehensive analytics including:
 ### 🏠 Dashboard Journey
 
 <img src="https://github.com/user-attachments/assets/50c5761f-d877-41f0-8b43-30d6fb4955d1" width="250">
+
 *Empty Dashboard - First launch, no data*
 
 <img src="https://github.com/user-attachments/assets/b3b4d951-3a32-4b96-9ec0-847a083cb0ef" width="250">
+
 *Dashboard after adding ₹50,000 salary income*
 
 <img src="https://github.com/user-attachments/assets/97afc1cd-c94b-4a49-9870-534265439f15" width="250">
+
 *Dashboard after adding expense*
 
 <img src="https://github.com/user-attachments/assets/ccde813d-b906-4672-a047-1115ce1563ff" width="250">
+
 *Complete Dashboard with pie chart and transactions*
 
 ---
@@ -109,9 +113,11 @@ Comprehensive analytics including:
 ### ✏️ Add & Edit Transactions
 
 <img src="https://github.com/user-attachments/assets/3f86d41d-6b6e-4a32-9214-1041fb569815" width="250">
+
 *Add Transaction form - Income selected*
 
 <img src="https://github.com/user-attachments/assets/667a0c3f-a78b-4fac-970b-4b67d60efc44" width="250">
+
 *Edit Transaction form*
 
 ---
@@ -119,21 +125,27 @@ Comprehensive analytics including:
 ### 📋 Transaction Management
 
 <img src="https://github.com/user-attachments/assets/8616595e-6af8-4775-a105-1d5e929a540e" width="250">
+
 *All Transactions list*
 
 <img src="https://github.com/user-attachments/assets/f18c9e3f-5939-413b-a596-07bd1dfee1f2" width="250">
+
 *Transactions with balance summary*
 
 <img src="https://github.com/user-attachments/assets/13bfa06b-a9e1-4937-a21c-c55885bdb16b" width="250">
+
 *Complete transaction history*
 
 <img src="https://github.com/user-attachments/assets/813dc198-618c-4c5a-94c0-4a4da1e9ca56" width="250">
+
 *Filter Dialog - Filter by type and category*
 
 <img src="https://github.com/user-attachments/assets/dbd76571-6ac3-47d7-a522-dccecca62f32" width="250">
+
 *Delete Confirmation Dialog*
 
 <img src="https://github.com/user-attachments/assets/311177c8-d81d-4536-b8b1-4acb3c1c8841" width="250">
+
 *Transactions Summary View*
 
 ---
@@ -141,15 +153,19 @@ Comprehensive analytics including:
 ### 🎯 Savings Goals
 
 <img src="https://github.com/user-attachments/assets/c4fb9838-b6e2-4cf3-b45b-06a3edd1deb7" width="250">
+
 *Empty Goals - No savings goals created yet*
 
 <img src="https://github.com/user-attachments/assets/25b3c29d-d7f7-4055-beb0-84b68132d23d" width="250">
+
 *Add Goal Form - Create new savings goal*
 
 <img src="https://github.com/user-attachments/assets/1e4defc9-3cbb-47f0-bbbe-aa06d9a9d7d2" width="250">
+
 *Goal Form filled with example data*
 
 <img src="https://github.com/user-attachments/assets/df535f49-1c5d-47e6-b830-a5b96b4a9b29" width="250">
+
 *Active Goals with Progress Bars and Streak Counter 🔥*
 
 ---
@@ -157,6 +173,7 @@ Comprehensive analytics including:
 ### 📊 Insights & Analytics
 
 <img src="https://github.com/user-attachments/assets/ac0bbea4-22b5-441b-a9ca-ca934e3b98d5" width="250">
+
 *Insights Screen - Spending analysis, category breakdown, and trends*
 
 
