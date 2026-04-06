@@ -267,6 +267,71 @@ Completed Features
 
 ✅ Error handling
 
+ ###📸 Screenshots
+
+1. Empty Dashboard (First Launch)
+https://WhatsApp%2520Image%25202026-04-06%2520at%25207.15.54%2520PM.jpeg
+App when first opened - no data added yet
+
+2. Dashboard with Income
+https://WhatsApp%2520Image%25202026-04-06%2520at%25207.15.55%2520PM%2520(1).jpeg
+After adding salary income of ₹50,000
+
+3. Dashboard with Expense Added
+https://WhatsApp%2520Image%25202026-04-06%2520at%25207.15.59%2520PM.jpeg
+After adding food expense of ₹500
+
+4. Complete Dashboard
+https://WhatsApp%2520Image%25202026-04-06%2520at%25207.19.06%2520PM.jpeg
+Full dashboard showing balance, chart, and transactions
+
+5. Transactions List
+https://WhatsApp%2520Image%25202026-04-06%2520at%25207.16.01%2520PM%2520(1).jpeg
+All transactions with income in green and expenses in red
+
+6. Transactions with Chart Summary
+https://WhatsApp%2520Image%25202026-04-06%2520at%25207.16.02%2520PM.jpeg
+Transaction list with total balance summary
+
+7. Filter Dialog
+https://WhatsApp%2520Image%25202026-04-06%2520at%25207.16.01%2520PM%2520(2).jpeg
+Filter transactions by type and category
+
+8. Multiple Transactions
+https://WhatsApp%2520Image%25202026-04-06%2520at%25207.16.00%2520PM.jpeg
+Complete transaction history
+
+9. Delete Confirmation
+https://WhatsApp%2520Image%25202026-04-06%2520at%25207.16.00%2520PM%2520(1).jpeg
+Confirm before deleting transaction
+
+10. Add Transaction Form
+https://WhatsApp%2520Image%25202026-04-06%2520at%25207.15.58%2520PM%2520(1).jpeg
+Form to add new income or expense
+
+11. Edit Transaction Form
+https://WhatsApp%2520Image%25202026-04-06%2520at%25207.16.01%2520PM.jpeg
+Edit existing transaction details
+
+12. Empty Goals Screen
+https://WhatsApp%2520Image%25202026-04-06%2520at%25207.16.02%2520PM%2520(1).jpeg
+No savings goals created yet
+
+13. Add Goal Form
+https://WhatsApp%2520Image%25202026-04-06%2520at%25207.16.03%2520PM.jpeg
+Create a new savings goal
+
+14. Add Goal with Data
+https://WhatsApp%2520Image%25202026-04-06%2520at%25207.16.02%2520PM%2520(2).jpeg
+Goal form filled with example data
+
+15. Goals with Progress
+https://WhatsApp%2520Image%25202026-04-06%2520at%25207.16.03%2520PM%2520(1).jpeg
+Active savings goals showing progress bars and streaks
+
+16. Insights Screen
+https://WhatsApp%2520Image%25202026-04-06%2520at%25207.15.59%2520PM%2520(1).jpeg
+Spending analysis, category breakdown, and trends
 
 📝 Assignment Notes
 This app was developed to demonstrate:
