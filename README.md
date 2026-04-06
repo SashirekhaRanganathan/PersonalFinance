@@ -75,25 +75,7 @@ Comprehensive analytics including:
   - `ui/` - Activities and UI logic
   - `adapters/` - RecyclerView adapters
   - `utils/` - Helper classes
-## 📸 Screenshots
-![1_empty](https://github.com/user-attachments/assets/50c5761f-d877-41f0-8b43-30d6fb4955d1)
 
-![2_income](https://github.com/user-attachments/assets/3f86d41d-6b6e-4a32-9214-1041fb569815)
-![3_add_transaction](https://github.com/user-attachments/assets/b3b4d951-3a32-4b96-9ec0-847a083cb0ef)
-![4_expense_added](https://github.com/user-attachments/assets/97afc1cd-c94b-4a49-9870-534265439f15)
-![5_insights](https://github.com/user-attachments/assets/ac0bbea4-22b5-441b-a9ca-ca934e3b98d5)
-![6_transactions_full](https://github.com/user-attachments/assets/f18c9e3f-5939-413b-a596-07bd1dfee![6_transactions_full_1](https://github.com/user-attachments/assets/13bfa06b-a9e1-4937-a21c-c55885bdb16b)
-1f2)
-![7_delete](https://github.com/user-attachments/assets/dbd76571-6ac3-47d7-a522-dccecca62f32)
-![8_edit](https://github.com/user-attachments/assets/667a0c3f-a78b-4fac-970b-4b67d60efc44)
-![9_transactions_list](https://github.com/user-attachments/assets/8616595e-6af8-4775-a105-1d5e929a540e)
-![10_filter](https://github.com/user-attachments/assets/813dc198-618c-4c5a-94c0-4a4da1e9ca56)
-![11_transactions_summary](https://github.com/user-attachments/assets/311177c8-d81d-4536-b8b1-4acb3c1c8841)
-![12_goals_empty](https://github.com/user-attachments/assets/c4fb9838-b6e2-4cf3-b45b-06a3edd1deb7)
-![13_add_goal](https://github.com/user-attachments/assets/25b3c29d-d7f7-4055-beb0-84b68132d23d)
-![14_goal_form](https://github.com/user-attachments/assets/1e4defc9-3cbb-47f0-bbbe-aa06d9a9d7d2)
-![15_goals_progress](https://github.com/user-attachments/assets/df535f49-1c5d-47e6-b830-a5b96b4a9b29)
-![16_dashboard_full](https://github.com/user-attachments/assets/ccde813d-b906-4672-a047-1115ce1563ff)
 ## 🛠️ Technical Stack
 
 | Component | Technology | Reason |
@@ -105,6 +87,44 @@ Comprehensive analytics including:
 | **Charts** | MPAndroidChart | Professional visualizations |
 | **UI** | Material Design 3 | Modern, consistent design |
 | **Architecture** | MVVM | Clean separation of concerns |
+
+## 📸 Screenshots
+
+### 🏠 Dashboard Journey
+
+| | Screenshot | Description |
+|---|---|---|
+| 1 | <img src="https://github.com/user-attachments/assets/50c5761f-d877-41f0-8b43-30d6fb4955d1" width="200"> | **Empty Dashboard** - First launch, no data |
+| 2 | <img src="https://github.com/user-attachments/assets/b3b4d951-3a32-4b96-9ec0-847a083cb0ef" width="200"> | **Income Added** - After ₹50,000 salary |
+| 3 | *(your expense screenshot URL)* | **Expense Added** - After adding expense |
+| 4 | *(your full dashboard URL)* | **Complete Dashboard** - With chart |
+
+---
+
+### ✏️ Add Transaction
+
+<img src="https://github.com/user-attachments/assets/3f86d41d-6b6e-4a32-9214-1041fb569815" width="250">
+*Form to add new income or expense transaction*
+
+---
+
+### 🎯 Savings Goals
+
+<img src="https://github.com/user-attachments/assets/25b3c29d-d7f7-4055-beb0-84b68132d23d" width="250">
+*Create new savings goal form*
+
+<img src="https://github.com/user-attachments/assets/1e4defc9-3cbb-47f0-bbbe-aa06d9a9d7d2" width="250">
+*Goal form filled with example data*
+
+<img src="https://github.com/user-attachments/assets/df535f49-1c5d-47e6-b830-a5b96b4a9b29" width="250">
+*Active goals with progress bar and streak counter 🔥*
+
+---
+
+### 📊 Insights
+
+*(Your insights screenshot here)*
+*Spending analysis, category breakdown, and trends*
 
 ## 📂 Project Structure
 PersonalFinance/
